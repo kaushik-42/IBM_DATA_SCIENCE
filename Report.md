@@ -1,3 +1,5 @@
+##REPORT::
+
 -->We often come across situations where we have to face
 cab cancellations or cab unavailability at times we need
 them the most .
@@ -29,3 +31,12 @@ they only show current availability or unavailability of
 cabs, they do not show what is the rate of cancellation
 at that time or what may be the cancellation rate if they
 are trying to book a cab for later on.
+
+-->Proposed System:
+With the help of our analysis we can add a feature to the
+existing applications that shows users the current
+cancellation rate if they are booking cab right now or
+what may be the cancellation rate if they are looking for
+cabs in the future based upon various parameters like
+current location, destination, time taken to reach
+destination, distance etc.
